@@ -1,0 +1,6 @@
+E:\[Nuova Formazione]\C# - .NET\Codice\Corso C Sharp\BaseClasse\obj\x86\Debug\BaseClasse.csproj.AssemblyReference.cache
+E:\[Nuova Formazione]\C# - .NET\Codice\Corso C Sharp\BaseClasse\obj\x86\Debug\BaseClasse.csproj.CoreCompileInputs.cache
+E:\[Nuova Formazione]\C# - .NET\Codice\Corso C Sharp\BaseClasse\bin\Debug\BaseClasse.exe
+E:\[Nuova Formazione]\C# - .NET\Codice\Corso C Sharp\BaseClasse\bin\Debug\BaseClasse.pdb
+E:\[Nuova Formazione]\C# - .NET\Codice\Corso C Sharp\BaseClasse\obj\x86\Debug\BaseClasse.exe
+E:\[Nuova Formazione]\C# - .NET\Codice\Corso C Sharp\BaseClasse\obj\x86\Debug\BaseClasse.pdb
