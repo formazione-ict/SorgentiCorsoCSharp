@@ -1,0 +1,5 @@
+/Users/darioconcilio/Documents/Corsi/Corso C Sharp/CorsoCSharp/Corso_14/bin/Debug/Corso_14.exe
+/Users/darioconcilio/Documents/Corsi/Corso C Sharp/CorsoCSharp/Corso_14/bin/Debug/Corso_14.pdb
+/Users/darioconcilio/Documents/Corsi/Corso C Sharp/CorsoCSharp/Corso_14/obj/x86/Debug/Corso_14.csproj.CoreCompileInputs.cache
+/Users/darioconcilio/Documents/Corsi/Corso C Sharp/CorsoCSharp/Corso_14/obj/x86/Debug/Corso_14.exe
+/Users/darioconcilio/Documents/Corsi/Corso C Sharp/CorsoCSharp/Corso_14/obj/x86/Debug/Corso_14.pdb
