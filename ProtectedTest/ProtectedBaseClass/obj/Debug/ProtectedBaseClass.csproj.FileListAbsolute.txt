@@ -1,0 +1,5 @@
+/Users/darioconcilio/Documents/Corsi/Corso C Sharp/CorsoCSharp/ProtectedTest/ProtectedBaseClass/bin/Debug/ProtectedBaseClass.dll
+/Users/darioconcilio/Documents/Corsi/Corso C Sharp/CorsoCSharp/ProtectedTest/ProtectedBaseClass/bin/Debug/ProtectedBaseClass.pdb
+/Users/darioconcilio/Documents/Corsi/Corso C Sharp/CorsoCSharp/ProtectedTest/ProtectedBaseClass/obj/Debug/ProtectedBaseClass.csproj.CoreCompileInputs.cache
+/Users/darioconcilio/Documents/Corsi/Corso C Sharp/CorsoCSharp/ProtectedTest/ProtectedBaseClass/obj/Debug/ProtectedBaseClass.dll
+/Users/darioconcilio/Documents/Corsi/Corso C Sharp/CorsoCSharp/ProtectedTest/ProtectedBaseClass/obj/Debug/ProtectedBaseClass.pdb

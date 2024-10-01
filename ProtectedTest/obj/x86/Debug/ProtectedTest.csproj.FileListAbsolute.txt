@@ -1,0 +1,9 @@
+/Users/darioconcilio/Documents/Corsi/Corso C Sharp/CorsoCSharp/ProtectedTest/bin/Debug/ProtectedTest.exe
+/Users/darioconcilio/Documents/Corsi/Corso C Sharp/CorsoCSharp/ProtectedTest/bin/Debug/ProtectedTest.pdb
+/Users/darioconcilio/Documents/Corsi/Corso C Sharp/CorsoCSharp/ProtectedTest/bin/Debug/ProtectedBaseClass.dll
+/Users/darioconcilio/Documents/Corsi/Corso C Sharp/CorsoCSharp/ProtectedTest/bin/Debug/ProtectedBaseClass.pdb
+/Users/darioconcilio/Documents/Corsi/Corso C Sharp/CorsoCSharp/ProtectedTest/obj/x86/Debug/ProtectedTest.csprojAssemblyReference.cache
+/Users/darioconcilio/Documents/Corsi/Corso C Sharp/CorsoCSharp/ProtectedTest/obj/x86/Debug/ProtectedTest.csproj.CoreCompileInputs.cache
+/Users/darioconcilio/Documents/Corsi/Corso C Sharp/CorsoCSharp/ProtectedTest/obj/x86/Debug/ProtectedTest.csproj.CopyComplete
+/Users/darioconcilio/Documents/Corsi/Corso C Sharp/CorsoCSharp/ProtectedTest/obj/x86/Debug/ProtectedTest.exe
+/Users/darioconcilio/Documents/Corsi/Corso C Sharp/CorsoCSharp/ProtectedTest/obj/x86/Debug/ProtectedTest.pdb

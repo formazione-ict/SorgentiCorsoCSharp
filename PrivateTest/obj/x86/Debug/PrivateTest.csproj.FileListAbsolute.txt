@@ -1,0 +1,2 @@
+/Users/darioconcilio/Documents/Corsi/Corso C Sharp/CorsoCSharp/PrivateTest/obj/x86/Debug/PrivateTest.csprojAssemblyReference.cache
+/Users/darioconcilio/Documents/Corsi/Corso C Sharp/CorsoCSharp/PrivateTest/obj/x86/Debug/PrivateTest.csproj.CoreCompileInputs.cache

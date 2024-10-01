@@ -1,0 +1,2 @@
+/Users/darioconcilio/Documents/Corsi/Corso C Sharp/CorsoCSharp/InternalBaseClass/InternalTest/obj/x86/Debug/InternalTest.csprojAssemblyReference.cache
+/Users/darioconcilio/Documents/Corsi/Corso C Sharp/CorsoCSharp/InternalBaseClass/InternalTest/obj/x86/Debug/InternalTest.csproj.CoreCompileInputs.cache

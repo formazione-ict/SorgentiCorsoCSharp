@@ -1,0 +1,5 @@
+/Users/darioconcilio/Documents/Corsi/Corso C Sharp/CorsoCSharp/PrivateTest/PrivateBaseClass/bin/Debug/PrivateBaseClass.dll
+/Users/darioconcilio/Documents/Corsi/Corso C Sharp/CorsoCSharp/PrivateTest/PrivateBaseClass/bin/Debug/PrivateBaseClass.pdb
+/Users/darioconcilio/Documents/Corsi/Corso C Sharp/CorsoCSharp/PrivateTest/PrivateBaseClass/obj/Debug/PrivateBaseClass.csproj.CoreCompileInputs.cache
+/Users/darioconcilio/Documents/Corsi/Corso C Sharp/CorsoCSharp/PrivateTest/PrivateBaseClass/obj/Debug/PrivateBaseClass.dll
+/Users/darioconcilio/Documents/Corsi/Corso C Sharp/CorsoCSharp/PrivateTest/PrivateBaseClass/obj/Debug/PrivateBaseClass.pdb

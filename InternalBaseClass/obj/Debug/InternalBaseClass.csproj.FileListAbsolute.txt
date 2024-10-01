@@ -1,0 +1,5 @@
+/Users/darioconcilio/Documents/Corsi/Corso C Sharp/CorsoCSharp/InternalBaseClass/bin/Debug/InternalBaseClass.dll
+/Users/darioconcilio/Documents/Corsi/Corso C Sharp/CorsoCSharp/InternalBaseClass/bin/Debug/InternalBaseClass.pdb
+/Users/darioconcilio/Documents/Corsi/Corso C Sharp/CorsoCSharp/InternalBaseClass/obj/Debug/InternalBaseClass.csproj.CoreCompileInputs.cache
+/Users/darioconcilio/Documents/Corsi/Corso C Sharp/CorsoCSharp/InternalBaseClass/obj/Debug/InternalBaseClass.dll
+/Users/darioconcilio/Documents/Corsi/Corso C Sharp/CorsoCSharp/InternalBaseClass/obj/Debug/InternalBaseClass.pdb
